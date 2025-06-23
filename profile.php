@@ -44,7 +44,7 @@
                                     </form>
                                 </div>
                             </div>
-                             <div class="step_single_slot_content">
+                            <div class="step_single_slot_content">
                                 <h2 class="title-wrapper">Email</h2>
                                 <div class="profile_box">
                                     <form>
@@ -57,7 +57,7 @@
                                     </form>
                                 </div>
                             </div>
-                             <div class="step_single_slot_content">
+                            <div class="step_single_slot_content">
                                 <h2 class="title-wrapper">Phone Number</h2>
                                 <div class="profile_box">
                                     <form>
